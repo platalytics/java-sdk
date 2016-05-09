@@ -1,0 +1,1 @@
+JAVA SDK for development with IoT Platalytics Platform
